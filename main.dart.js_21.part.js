@@ -21,7 +21,7 @@ x.L("assets_iran_exchange",y.h)
 A.bq(d)
 if($.cg==null)A.R("IranExchangeConfig is not initialized, call IranExchangeConfigManager.init() first")
 x=A.ed("assets/images/svgs/launch_day_not_found.svg",u,C.az,u,u,u)
-w=A.y(A.m("version 65"),u,u,u,u,this.a.ok.y,C.ai,u,u)
+w=A.y(A.m("version 66"),u,u,u,u,this.a.ok.y,C.ai,u,u)
 v=$.dc()
 return A.c3(A.a1(A.a([x,D.bkD,w,C.v,new A.ah(170,u,A.cL(A.y(A.m("return"),u,u,u,u,u,u,u,u),new B.bnu(),v),u)],y.e),C.f,C.a3,C.h,0,u,C.l),u,u)},
 $S:152}
@@ -33,4 +33,4 @@ x(B.bnv,A.dh)
 x(B.bnu,A.dZ)})()
 A.dg(b.typeUniverse,JSON.parse('{"qs":{"a4":[],"d":[]}}'))
 var y={h:A.V("hK"),e:A.V("x<d>")};(function constants(){D.bkD=new A.ah(null,64,null,null)})()};
-(a=>{a["WLoLjQLjFQJJV4HsYsgZCEnlzc4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["+WOTPQGE8587Y6INj0McMxn9te8="]=a.current})($__dart_deferred_initializers__);
